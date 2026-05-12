@@ -1,4 +1,4 @@
-
+https://ai-powered-fake-news-detector-t0ww.onrender.com/
 ## Run Locally
 
 **Prerequisites:**  Node.js
